@@ -1,0 +1,54 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Bytecode / cache
+*.so
+*.pyd
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Data files (optional — keep if you want tracked)
+# =========================
+*.csv
+*.h5
+*.hdf5
+
+# If you want to keep specific data, comment the above
+# and instead ignore only generated outputs.
+
+# =========================
+# Plots / generated outputs
+# =========================
+graphs/
+*.png
+*.pdf
+*.svg
+
+# =========================
+# IDE / OS junk
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Logs
+# =========================
+*.log
